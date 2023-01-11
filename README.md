@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">A passionate Computer Engineering Student from Mumbai</h3>
+<h3 align="center">A passionate  Final Year udergrad from Mumbai</h3>
 
 - 🔭 I’m currently working on **different web projects**
 
@@ -21,7 +21,7 @@
 
 
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=RAUNAK-PANDEY&show_icons=true&hide_border=true&theme=radical&count_private=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAUNAK-PANDEY&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=AkashYadav-02&show_icons=true&hide_border=true&theme=radical&count_private=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashYadav-02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
 |---|---|
 |<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashYadav-02&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashYadav-02&layout=compact&theme=dracula" />| 
 |<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashYadav-02&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashYadav-02Y&theme=dracula" />|<br>
