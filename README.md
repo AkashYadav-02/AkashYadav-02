@@ -26,6 +26,6 @@
 |<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashYadav-02&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashYadav-02&layout=compact&theme=dracula" />| 
 |<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashYadav-02&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashYadav-02Y&theme=dracula" />|<br>
 
-[![Akash 's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashYadav-02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash 's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashYadav-02&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  
