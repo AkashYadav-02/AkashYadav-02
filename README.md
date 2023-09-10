@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">A passionate  Counpter Science  Engineer   from Mumbai</h3>
+<h3 align="center">A passionate  Counpter Science  Engineer  from Mumbai</h3>
 
 - 🔭 I’m currently working on **different web projects**
 
