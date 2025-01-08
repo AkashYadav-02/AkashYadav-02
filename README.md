@@ -79,10 +79,7 @@
 
 ---
 
-### 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkashYadav-02&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ### 📈 Activity Graph  
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashYadav-02&bg_color=1b2336&color=d6518b&line=b46e8a&point=706666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
